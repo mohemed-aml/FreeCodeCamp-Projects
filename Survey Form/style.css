@@ -1,0 +1,35 @@
+#title {
+  text-align: center;
+  padding-top: 20px;
+  color: aliceblue;
+}
+
+body {
+  background-image: url("bg3.jpg");
+  font-family: "Montserrat", sans-serif;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0rem;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+}
+
+#description {
+  text-align: center;
+}
+
+#survey-form {
+  background-color: rgba(100, 100, 184, 0.8);
+  font-size: 1.5rem;
+  border-radius: 5px;
+  padding: 4rem 2rem;
+  width: auto;
+  box-sizing: border-box;
+  margin: 3% 23%;
+}
