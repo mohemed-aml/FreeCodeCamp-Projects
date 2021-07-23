@@ -5,8 +5,8 @@
 }
 
 body {
-  background-image: url("bg3.jpg");
-  font-family: "Montserrat", sans-serif;
+  background-image: url("./images/bg3.jpg");
+  font-family: "Poppins", sans-serif;
 }
 
 input[type="text"],
@@ -25,10 +25,10 @@ select {
 }
 
 #survey-form {
-  background-color: rgba(100, 100, 184, 0.8);
-  font-size: 1.5rem;
+  background-color: rgba(100, 100, 184, 0.9);
+  font-size: 1.25rem;
   border-radius: 5px;
-  padding: 4rem 2rem;
+  padding: 4rem 3rem;
   width: auto;
   box-sizing: border-box;
   margin: 3% 23%;
