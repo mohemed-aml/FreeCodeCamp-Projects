@@ -1,16 +1,20 @@
-#title {
+h1,
+p {
   text-align: center;
   padding-top: 20px;
-  color: aliceblue;
+  color: rgb(6, 75, 75);
 }
 
 body {
-  background-image: url("./images/bg3.jpg");
+  background-image: url("./images/background-image.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
   font-family: "Poppins", sans-serif;
+  color: whitesmoke;
 }
 
-input[type="text"],
-select {
+.text-box {
   width: 100%;
   font-size: 1rem;
   padding: 0.5rem 1rem;
