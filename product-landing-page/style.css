@@ -1,0 +1,29 @@
+/* 2B2B2B */
+
+header {
+  background-color: #2b2b2b;
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 1rem;
+}
+
+.nav-link {
+  padding: 0.5em;
+  color: #e9333c;
+}
+
+#header-img {
+  width: 10%;
+  padding: 0.8% 2% 0.7% 2%;
+}
+
+.main {
+  background-color: tan;
+  height: 60%;
+}
